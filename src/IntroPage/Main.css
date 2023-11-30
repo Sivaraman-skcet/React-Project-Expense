@@ -1,0 +1,16 @@
+.logo {
+  width: 100px;
+  height: 70px;
+}
+.head {
+  display: inline-flex;
+  gap: 50px;
+  margin-left: 200px;
+}
+.nav {
+  margin-top: 30px;
+}
+.start {
+  margin-left: 250px;
+  margin-top: 25px;
+}
